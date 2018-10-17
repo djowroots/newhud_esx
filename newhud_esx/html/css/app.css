@@ -1,0 +1,30 @@
+
+div.divHud {
+  position: absolute;
+  left: 20.5;
+  bottom: 13.3;
+  background-color: rgb(39, 37, 37);
+  left: 16%;
+  width  : 7.9vw;
+  height: 4.3vh;
+}
+  
+
+img#imgHud {
+  position: absolute;
+  left: 20.5;
+  bottom: 13.3;
+  height: 17.9vh;
+  width: 33vw;
+}
+
+div#horario{
+  position: absolute !important;
+  font-size: 0.8rem;
+  color: white;
+  margin-bottom: 0;
+  bottom: 1.4%;
+  left: 18%;
+  font-family: 'Hind Siliguri', sans-serif;
+}
+
