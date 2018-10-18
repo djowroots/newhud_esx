@@ -7,3 +7,5 @@ new UI for ESX
 
 #PREVIEW
 https://cdn.discordapp.com/attachments/464622485363752980/467911033403473941/unknown.png
+
+#This is an old project, you must fit into your es_extended/essentialmode, i do not give support for your server, thanks!
